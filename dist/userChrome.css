@@ -43,7 +43,7 @@
   background-color: var(--surface) !important;
 }
 
-#urlbar-background {
+.urlbar-background {
   background-color: var(--surface) !important;
 }
 
