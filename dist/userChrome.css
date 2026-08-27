@@ -24,6 +24,12 @@
   --zen-main-browser-background: var(--base) !important;
   --zen-main-browser-background-toolbar: var(--base) !important;
   --zen-navigator-toolbox-background: var(--base) !important;
+
+  /* findbar variales */
+    --toolbar-background-color: var(--overlay) !important;
+    --toolbar-text-color: var(--text) !important;
+    --chrome-content-separator-color: var(--surface) !important;
+    --toolbar-field-background-color-focus: var(--surface) !important;
 }
 
 #permissions-granted-icon {
